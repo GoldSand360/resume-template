@@ -1,6 +1,6 @@
 # Site settings
 title: "Brandon C.Thompon"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "I want to be a Chemical Engineer because i always liked using chemicals to fix problems.I believe that me becoming a Chemical Engineer can help me further understand myself."
 
 # Build settings
 markdown: kramdown
@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brandon C.Thompson"
-resume_title:                   "githubs Rare Scholar"
+resume_title:                   "Chemical Engineer"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+  "GoldSand360@gmail.com"
+resume_header_contact_info: "/678-471-7036/ GoldSand360@gmail.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
